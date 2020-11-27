@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\bin\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\bin\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\bin\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\bin\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\bin\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\bin\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Gerenciar-produtos-27-11\obj\Debug\netcoreapp3.1\Gerenciar-produtos-27-11.genruntimeconfig.cache
